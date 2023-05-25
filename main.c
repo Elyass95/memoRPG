@@ -150,7 +150,6 @@ void jouer1(infojoueur *a, infojoueur *b, infojoueur *s, infojoueur *d, int r,
     introduction(nbj, a, b, s, d, fichier);
   } // condition qui sert au premier lancement du jeux
 
-  //printTableau(cartes);
 
   while (1) {
     // **************** JOUEUR 1 ***************************************
