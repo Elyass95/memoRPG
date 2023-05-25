@@ -223,12 +223,12 @@ void revelationtotem(char **tableau, char **cartes, int *x1, int *y1) {
   printf("choose the coordinates of a box :  \n\n"); 
   do {
     do {
-      printf("the x-axis : ");
+       printf("column number : ");
       scanf("%d", &yt);
       empty_buffer();
     } while (yt <= 0 || yt > 5);    
     do {
-      printf("the y-axis : ");
+       printf("line number : ");
       scanf("%d", &xt);
       empty_buffer(); // Vérifier que c'est un entier pour pas que ça boucle à l'infini quand on a un char.
     } while (xt <= 0 || xt > 5);
