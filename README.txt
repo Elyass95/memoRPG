@@ -92,8 +92,6 @@ blardoneti@cy-tech.fr
 
 
 
-Amusez-vous bien 😉.
-
 
 
 
