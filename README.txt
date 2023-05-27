@@ -33,7 +33,7 @@ Avec 5 fichiers header qui reprennent les noms des fichiers .c
 - verfi.h
 
 Ce jeu propose 2 fonctionnalités, 
-la première permet de jouer et la deuxième permet de lire les scores de chaque partie;
+la première permet de jouer et la deuxième permet de lire les scores de chaque partie (si aucune partie n'a été jouée rien ne s'affiche).
 
 
 
